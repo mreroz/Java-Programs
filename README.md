@@ -1,2 +1,2 @@
 # Java-Programs
-Collection of the coded programs for Java Course
+Collection of programs for the Java Course
