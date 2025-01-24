@@ -1,2 +1,2 @@
-# Java-Programs
-Several programs coded for Luleå Java course
+# Java-Program-Collection
+Several programs coded for Java Course
